@@ -1,1 +1,2 @@
 # Complaint-Priority-Classification
+This project aims to automatically predict the priority of complaints submitted by students or users. The goal is to help institutions identify urgent issues quickly—such as water leakages, electrical faults, safety issues, or maintenance needs. A Support Vector Classifier (SVC) is trained on a labeled dataset of complaints. Text data is preprocessed, converted into TF-IDF features, and classified into priority categeories.
